@@ -41,11 +41,6 @@ Welcome to **Project Mahoraga**! This is a group project inspired by My Anime Li
 ## Contributing
 
 We welcome contributions from the community. Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. (not yet learned how to do this but feel free to use it)
-
 ---
 
 **Project Mahoraga** is a fun and engaging project, especially for anime watchers. Dive in and enjoy the world of anime with us!
